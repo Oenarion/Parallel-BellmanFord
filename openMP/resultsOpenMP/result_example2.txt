@@ -1,0 +1,7 @@
+Threads: 1, Elapsed_time: 0.013352
+Threads: 2, Elapsed_time: 0.008528
+Threads: 4, Elapsed_time: 0.008553
+Threads: 8, Elapsed_time: 0.069858
+Threads: 16, Elapsed_time: 0.108811
+Threads: 32, Elapsed_time: 0.197729
+Threads: 64, Elapsed_time: 0.358490
