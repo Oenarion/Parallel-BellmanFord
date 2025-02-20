@@ -1,2 +1,0 @@
-Parallel mode,Block size: 256, Elapsed_time: 0.001418
-Sequential mode, Elapsed_time: 0.001241
